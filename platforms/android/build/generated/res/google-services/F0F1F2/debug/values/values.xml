@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">104584192050-2gh6u3uk2o8gg1qsijbeiivmi2qa3m2k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://itrack-e6b83.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">104584192050</string>
+    <string name="google_api_key" translatable="false">AIzaSyB1gLRyxkVXB3iBy4psxzpjeM8V-DO1isQ</string>
+    <string name="google_app_id" translatable="false">1:104584192050:android:881195f391ba229b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB1gLRyxkVXB3iBy4psxzpjeM8V-DO1isQ</string>
+    <string name="google_storage_bucket" translatable="false">itrack-e6b83.appspot.com</string>
+</resources>

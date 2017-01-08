@@ -1,0 +1,61 @@
+{
+  "name": "nativescript-plugin-firebase",
+  "version": "3.0.0",
+  "description": "Fire. Base. Firebase!",
+  "main": "firebase.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.3.0",
+      "ios": "1.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-plugin-firebase.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "Firebase",
+    "Database"
+  ],
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-plugin-firebase/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-plugin-firebase/issues"
+  },
+  "homepage": "https://github.com/eddyverbruggen/nativescript-plugin-firebase",
+  "gitHead": "8776c42e88827f56cd532a8a2df7a557b4f8b83d",
+  "_id": "nativescript-plugin-firebase@3.0.0",
+  "scripts": {},
+  "_shasum": "a64fb504979b3ac2f936a3ee79cbc38b5b027829",
+  "_from": "nativescript-plugin-firebase@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "a64fb504979b3ac2f936a3ee79cbc38b5b027829",
+    "tarball": "https://registry.npmjs.org/nativescript-plugin-firebase/-/nativescript-plugin-firebase-3.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-plugin-firebase-3.0.0.tgz_1464295693895_0.4652816054876894"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-plugin-firebase/-/nativescript-plugin-firebase-3.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

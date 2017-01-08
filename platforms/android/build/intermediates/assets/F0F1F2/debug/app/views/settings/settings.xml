@@ -1,0 +1,11 @@
+<Page loaded="loaded">
+  <StackLayout>
+    <Label text="Device Label" />
+    <TextView text="{{ deviceLabel }}" />
+    <GridLayout columns="*, auto" rows="auto">
+      <Label text="Turn On Speed Display" row="0" col="0" />
+      <Switch checked="{{ speedDisplayOn }}" row="0" col="1" />
+    </GridLayout>
+    <Button text="Start" tap="startTracking" id="startBtn" />
+  </StackLayout>
+</Page>

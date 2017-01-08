@@ -1,0 +1,26 @@
+Page {
+    background-color: black;
+    color: white;
+    padding-top: 80;
+}
+#dashboard {
+    text-align: center
+}
+.description {
+    font-size: 18px
+}
+.figure {
+    font-size: 42px
+}
+Button {
+    width: 100%;
+    font-size: 20
+}
+#lastUpload {
+    margin-top: 30;
+}
+#deviceLabel {
+    background-color: white;
+    color: black;
+    margin-bottom: 20;
+}

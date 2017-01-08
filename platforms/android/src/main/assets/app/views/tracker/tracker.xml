@@ -1,0 +1,22 @@
+<Page loaded="loaded" actionBarHidden="true">
+    <StackLayout>
+        <GridLayout id="dashboard" columns="*, *" rows="auto, auto, auto">
+            <Label text="Speed" row="0" col="0" class="description"></Label>
+            <Label text="Distance" row="0" col="1" class="description"></Label>
+            <Label text="{{ speed | round}}" row="1" col="0" class="figure"></Label>
+            <Label text="{{ distance | round }}" row="1" col="1" class="figure"></Label>
+            <Label text="km/h" row="2" col="0"></Label>
+            <Label text="km" row="2" col="1"></Label>
+        </GridLayout>
+        <Label text="Status:" />
+        <Label text="{{ status }}" />
+        <Label text="Last Upload:" id="lastUpload" />
+        <Label text="{{ lastUpload }}" />
+        <TextView text="{{ deviceLabel }}" id="deviceLabel" hint="Device Label" />
+        <Button text="Start Speed" tap="speedStart" />
+        <Button text="Stop Speed" tap="speedStop" />
+        <Button text="Start Tracking" tap="trackStart" />
+        <Button text="Stop Tracking" tap="trackStop" />
+        <Button text="Mayday" tap="mayday" />
+    </StackLayout>
+</Page>
